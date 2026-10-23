@@ -91,7 +91,7 @@ A machine learning project for classifying malignant and non-malignant tumor cas
 ## 🏆 Beyond Coding
 
 - 🥇 Finalist at the IIT Bombay Ideathon.
-- 🛠️ Coordinator and core-team contributor for Prodyogiki, the annual technical festival at NIT Hamirpur.
+- 🛠️ Technical Head | Prodyogiki, the annual technical festival at NIT Hamirpur.
 - 🤝 Interested in collaborative development, hackathons, and building products that solve real problems.
 
 ---
